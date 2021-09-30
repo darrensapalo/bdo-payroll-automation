@@ -2,8 +2,8 @@
 
 ## Requirements
 
-1. Python 3.7.8
+1. Python 3.9
 
 ## Usage
 
-1. `pip3 install -r requirements.txt`
+1. `pipenv install`

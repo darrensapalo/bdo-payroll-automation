@@ -1,0 +1,10 @@
+
+bank:
+  - name: Banco De Oro
+    baseURL: https://online.bdo.com.ph/sso/login
+    username: darrensapalo
+employees:
+  - id: 1
+    name: Darren
+  - id: 2
+    name: Ken
